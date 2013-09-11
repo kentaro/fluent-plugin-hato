@@ -16,6 +16,7 @@ fluent-plugin-hato is a plugin for Fluentd to send messages via [Hato](http://gi
 
   api_key        YOUR_API_KEY
   scheme         http
+  host           hato.example.com
   port           9699
   message_keys   foo, bar, baz
   message_format [notification] %s %s %s
