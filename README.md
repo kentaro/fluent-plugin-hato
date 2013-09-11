@@ -49,6 +49,10 @@ Keys represented by comma-separated value for message.
 
 Message format.
 
+#### `remove_tag_prefix`, `remove_tag_suffix`, `add_tag_prefix`, `add_tag_suffix`
+
+You can also use the params above inherited from [Fluent::HandleTagNameMixin](https://github.com/fluent/fluentd/blob/master/lib/fluent/mixin.rb).
+
 ## Installation
 
 Add this line to your application's Gemfile:
