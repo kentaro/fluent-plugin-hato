@@ -1,4 +1,4 @@
-# Fluent::Plugin::Hato [![BuildStatus](https://secure.travis-ci.org/kentaro/fluent-plugin-hato.png)](http://travis-ci.org/kentaro/fluent-Plugin-hato)
+# Fluent::Plugin::Hato [![BuildStatus](https://secure.travis-ci.org/kentaro/fluent-plugin-hato.png)](http://travis-ci.org/kentaro/fluent-plugin-hato)
 
 ## Component
 
